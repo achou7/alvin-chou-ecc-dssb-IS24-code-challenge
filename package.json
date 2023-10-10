@@ -1,0 +1,16 @@
+{
+  "name": "alvin-chou-ecc-dssb-is24-code-challenge",
+  "version": "1.0.0",
+  "description": "Coding challenge for ECC DSSB IS24",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvin Chou",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "sqlite3": "^5.1.6"
+  }
+}
