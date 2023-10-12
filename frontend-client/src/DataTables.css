@@ -1,0 +1,29 @@
+.data-table-div {
+    width: 100%;
+}
+
+.data-table {
+    text-align: left;
+    border: 2px solid #dedede;
+}
+
+.table-heads {
+    background: #A8C686;
+    color: #333333;
+    font-weight: bold;
+}
+
+th, td {
+    padding: 15px;
+    border: 1px solid #cccccc;
+}
+
+tr {
+    background: #29335C;
+    color: #669BBC;
+}
+
+tr:nth-child(2n) {
+    background: #669BBC;
+    color: #333333;
+}

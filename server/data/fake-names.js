@@ -91,16 +91,6 @@ export const project_names = [
     "BrainyJourney",
     "EdutainmentX",
     "ClassMosaic",
-    "EduInnovate360",
-    "ScholarSense",
-    "ThinkLearnEvolve",
-    "EduQuestNexus",
-    "EduHubGenius",
-    "EduTechTrail",
-    "LearnNexSphere",
-    "EduBridgeConnect",
-    "EduMentor360",
-    "EdTechEvolvify",
-    "EduLinkXcellence"
+    "EduInnovate360"
   ];
   
